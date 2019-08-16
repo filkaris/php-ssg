@@ -1,0 +1,50 @@
+main {
+    margin: 0 auto;
+    max-width: 50em;
+    padding: 4em 1em;
+    font-size: 1.1em;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+    color: #555;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Lora', serif;
+}
+h1 {
+    font-size: 2em;
+}
+h2 {
+    padding-top: 1em;
+}
+h1, h2, strong {
+    color: #333;  
+}
+a {
+    color: #5acde2;
+}
+h2 a, big a {
+    color: #555;
+    text-decoration: none;
+}
+blockquote {
+    margin: 2em; 
+    font-style: italic;
+}
+code,
+pre {
+    font-size: 0.9em !important;
+    background: #f5f7f9;
+    color: #a7adba;
+}
+
+code {
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+
+}
+pre {
+    padding: 1em;
+    border-left: 2px solid #69c;
+}
