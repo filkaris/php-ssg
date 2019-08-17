@@ -5,12 +5,12 @@ main {
     font-size: 1.1em;
 }
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family:  sans-serif;
     line-height: 1.5;
     color: #555;
 }
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Lora', serif;
+    font-family:  serif;
 }
 h1 {
     font-size: 2em;
