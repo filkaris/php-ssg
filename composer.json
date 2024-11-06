@@ -12,7 +12,7 @@
     "require-dev": {
         "pagerange/metaparsedown": "^1.0",
         "symfony/yaml": "^4.3",
-        "twig/twig": "^2.0"
+        "twig/twig": "^3.11"
     },
     "autoload": {
         "psr-4": {
